@@ -2,7 +2,7 @@
 
 ## ESLint configuration for JavaScript projects
 
-This the base [ESLint](https://eslint.org/) configuration I use in personal JavaScript projects:
+This the base [ESLint](https://eslint.org/) configuration we use in our JavaScript projects:
 
 - ✔ Extends the popular [Airbnb Style Guide](https://github.com/airbnb/javascript)
 - ✔ Uses [Prettier](https://prettier.io/) for code formatting
