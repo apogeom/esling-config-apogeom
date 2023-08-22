@@ -13,9 +13,10 @@
     "plugin:react/recommended",
     "plugin:react/jsx-runtime",
     "plugin:react-hooks/recommended",
-    "plugin:jsx-a11y/recommended"
+    "plugin:jsx-a11y/recommended",
+    "plugin:testing-library/react"
   ],
-  "plugins": ["prettier", "testing-library"],
+  "plugins": ["prettier"],
   "parserOptions": {
     "ecmaFeatures": {
       "jsx": true,
